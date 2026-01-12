@@ -9,7 +9,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-I'm a junior programmer investing on fullstack programming, currently I'm at my second to last year of highschool. I like to invest on new technologies and try to do new things.
+I am a junior programmer studying full-stack programming. I am currently in my penultimate year of high school. I enjoy studying new technologies and trying new things.
 
 - :school: I am a `Student` at [E.E.S.T N°1 Esteban Echeverria](https://sites.google.com/view/tecnica1montegrande/inicio)
 - :technologist: **Currently investing on** `Fullstack Development`
