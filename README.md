@@ -38,6 +38,9 @@ I am a junior programmer studying full-stack programming. I am currently in my p
 <a href="https://www.instagram.com/bruno_0.arj/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+<a href="https://www.linkedin.com/in/bruno-araujo-83a8333a5/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 ---
 
