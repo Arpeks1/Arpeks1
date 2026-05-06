@@ -23,24 +23,21 @@ I'm a junior programmer studying full-stack programming. I am currently in my pe
 
 ---
 
-<h3>Languages</h3>
-<span>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</span>
+<h2>Front-End</h2>
 
-<h3>Social Media</h3>
-<a href="https://x.com/brunoArauj17859" tarjet="_blank">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
-</a>
-<a href="https://www.instagram.com/bruno_0.arj/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/bruno-araujo-83a8333a5/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+<h2>Frameworks</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+
+<h2>Back-End</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
+
+<h2>Social Media</h2>
+
+<a href="https://x.com/brunoArauj17859" tarjet="_blank"> [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) </a> <a href="https://www.instagram.com/bruno_0.arj/"> [![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev) </a> <a href="https://www.linkedin.com/in/bruno-araujo-83a8333a5/"> [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)  </a>
 
 ---
 
